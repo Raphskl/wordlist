@@ -1,0 +1,2 @@
+# Wordlist
+Some wordlist
